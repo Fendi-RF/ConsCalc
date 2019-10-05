@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\testcalc_Console\testcalc_Console\obj\Debug\testcalc_Console.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\testcalc_Console\testcalc_Console\bin\Debug\testcalc_Console.exe.config
+C:\Users\Dell\source\repos\testcalc_Console\testcalc_Console\bin\Debug\testcalc_Console.exe
+C:\Users\Dell\source\repos\testcalc_Console\testcalc_Console\bin\Debug\testcalc_Console.pdb
+C:\Users\Dell\source\repos\testcalc_Console\testcalc_Console\obj\Debug\testcalc_Console.exe
+C:\Users\Dell\source\repos\testcalc_Console\testcalc_Console\obj\Debug\testcalc_Console.pdb
